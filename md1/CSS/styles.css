@@ -1,14 +1,7 @@
-.img{
-    float:right;
-    height: fit-content(20em);
-    width:25em;
-
-}
 body{
-    background-color: silver;
-    margin:0 auto;
+    background-color: white;
 }
-.aboutme{
-    background-color: silver;
-    color: black;
+.Myfirstwebsite{
+    font: 70px;
+    
 }
