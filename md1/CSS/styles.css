@@ -1,0 +1,14 @@
+.img{
+    float:right;
+    height: fit-content(20em);
+    width:25em;
+
+}
+body{
+    background-color: silver;
+    margin:0 auto;
+}
+.aboutme{
+    background-color: silver;
+    color: black;
+}
