@@ -7,7 +7,7 @@ This is a simple webpage site built with HTML and CSS.
 * Clone the repo :{https://github.com/andrew4779/andrew4779.github.io.git }
 * No server or dependencies needed to run the code.
 ## Live link
-https://andrew4779.github.io/md1/index.html
+{https://andrew4779.github.io/md1/index.html }
 ## Known Bugs
 The navigation bar isn't functioning as expected
 ## Technologies Used
