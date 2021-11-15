@@ -1,0 +1,17 @@
+h1{
+    color: darkgrey;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: darkslateblue;
+}
+p{
+    color: bisque
+}
+body{
+    background-color: seagreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
