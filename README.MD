@@ -1,5 +1,5 @@
        MY PORTFOLIO
-#### This is a site dedicated to documenting my coding work/journey, 12/05/2021
+#### This is a site dedicated to documenting my coding work/journey, 09/05/2021
 #### By **Andrew kimani**
 ## Description
 This is a simple webpage determinig your name based on the day of the week you were born.
