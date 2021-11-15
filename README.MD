@@ -1,19 +1,20 @@
- Andrew kimani   10/11/2021.
-# My portfolio
-This is a site dedicated to documenting my coding work/journey, 11/05/2021
-By Andrew
+MY PORTFOLIO
+This is a site dedicated to documenting my coding work/journey, 12/05/2021
+By Andrew kimani
 Description
-This is a simple webpage site built with HTML and CSS.
+This is a simple webpage determinig your name based on the day of the week you were born.
+
 Setup/Installation Requirements
-Clone the repo :{git@github.com:andrew4779/week-one-project.git}
+Clone the repo :{git clone  {git@github.com:andrew4779/week-one-project.git}
 No server or dependencies needed to run the code.
 Live link
-{https://andrew4779.github.io/md1/index.html}
-Known Bugs
-The navigation bar isn't functioning as expected
-Technologies Used
-This project has been written in HTML and CSS.
+
+
+Technologies Usedhttps:
+This project has been written with HTML,CSS and Javascript
+
 Support and contact details
-If you run into any issues with the code you can contribute to the project, reporting the issue and probably suggesting a fix.
+If any issue concerning the project,you can reach me through; Email:andrewkimani02@gmail.com.
+
 License
-This software is under the MIT license Copyright (c) {2021}
+This software is under the MIT license Copyright (c) {2021}# practice.
